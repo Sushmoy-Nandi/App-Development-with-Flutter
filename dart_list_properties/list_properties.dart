@@ -1,5 +1,5 @@
 void main() {
-  var city = ['Dhaka'];
+  var city = ['Dhaka', 'Jashore', 'Savar', 'Kushtia'];
   //var result = city.length;
   //var result = city.first;
   //var result = city.last;
